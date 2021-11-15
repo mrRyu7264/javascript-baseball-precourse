@@ -1,7 +1,7 @@
 <p align="middle" >
-  <img width="200px;" src="https://github.com/woowacourse/javascript-baseball-precourse/blob/main/images/baseball_icon.png?raw=true"/>
+  <img width="200px;" src="/images/baseball_icon.png"/>
 </p>
-<h1 align="middle">숫자 야구 게임</h1>
+<h1 align="middle">숫자 야구 게임 - 류현승 미션 제출</h1>
 
 ## 🎯 기능 요구사항
 
